@@ -1,2 +1,3 @@
 # GitHub-new
-new plans A
+新计划 A
+github plans B
